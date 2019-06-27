@@ -24,6 +24,6 @@
     "superagent": "^3.5.2",
     "threads": "^0.12.1",
     "timeago.js": "^3.0.2",
-    "yargs": "^11.0.0"
+    "yargs": "^13.2.4"
   }
 }
