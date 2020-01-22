@@ -1,7 +1,11 @@
 {
-  "name": "Motus",
+  "name": "motus",
   "version": "1.0.0",
   "description": "Blockchain cryptocurrency implementation demonstration",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/TheDoctor0/Motus.git"
+  },
   "bin": {
     "motus": "motus.js"
   },
