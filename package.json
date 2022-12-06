@@ -28,6 +28,6 @@
     "superagent": "^5.2.1",
     "threads": "^0.12.1",
     "timeago.js": "^4.0.2",
-    "yargs": "^15.1.0"
+    "yargs": "^15.4.1"
   }
 }
